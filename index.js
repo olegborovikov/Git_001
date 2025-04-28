@@ -1,3 +1,3 @@
 const H = 'Hello'
 
-console.log('Hello, World!!!')
+console.log(H)
